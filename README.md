@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vinay Kumar Patel
 
 - 🌱 I’m currently learning Web Development
-- I also doing Machine Learning
+- I'm also doing Machine Learning
 
 - 📫 How to reach me https://www.linkedin.com/in/vinay-kumar-patel-79aa36289/
 
